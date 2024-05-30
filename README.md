@@ -1,5 +1,17 @@
 ## Hi I am Adnan Zaman👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdnanZamanNiloy)](https://github.com/AdnanZamanNIloy/github-readme-stats)
+# Clone this project
+$ git clone https://github.com/AdnanZamanNiloy/profile-readme-generator
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
 
 <!--
 **AdnanZamanNiloy/AdnanZamanNiloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
