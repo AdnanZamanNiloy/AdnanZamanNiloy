@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h3 align="center">I'm currently involved in problem solving, learning more algorithms!</h3>
 <p align="center">
-  <img src="[https://qph.cf2.quoracdn.net/main-qimg-677dc755d3cc0173f8d71dffc2b97903](https://i.sstatic.net/NIxpn.gif)" alt="">
+  <img src="https://qph.cf2.quoracdn.net/main-qimg-677dc755d3cc0173f8d71dffc2b97903](https://i.sstatic.net/NIxpn.gif" alt="">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
