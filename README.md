@@ -27,4 +27,4 @@
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdnanZamanNiloy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&hide=B&theme=radical)
