@@ -7,11 +7,18 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adnan-zaman-niloy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adnan-zaman-niloy/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100064609411921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100064609411921" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adnanzamanniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adnanzamanniloy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/adnanzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/adnanzaman" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adnanzaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adnanzaman/" height="30" width="40" /></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!--START_SECTION:waka-->
+
+```text
+Python   3 hrs 58 mins    █████████████████████████   100.00 %
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
