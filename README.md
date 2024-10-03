@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 <!--
 **AdnanZamanNiloy/AdnanZamanNiloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
