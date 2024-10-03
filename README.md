@@ -7,25 +7,99 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdnadeemSarwar&theme=radical&hide_border=false)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            max-width: 1200px;
+            width: 100%;
+            padding: 20px;
+        }
+        .card {
+            background-color: #2b2b2b;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+        }
+        .card h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .card p {
+            margin: 10px 0;
+        }
+        .stats {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background-color: #444;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MdnadeemSarwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div class="container">
+    <div class="card">
+        <h2>Md Nadeem Sarwar's GitHub Stats</h2>
+        <p>Total Stars Earned: 351</p>
+        <p>Total Commits: 254</p>
+        <p>Total PRs: 14</p>
+        <p>Total Issues: 1</p>
+    </div>
+    <div class="card">
+        <h2>Most Used Languages</h2>
+        <p>Python: 16.99%</p>
+        <p>JavaScript: 7.30%</p>
+        <p>HTML: 21.99%</p>
+        <p>CSS: 40.49%</p>
+    </div>
+    <div class="card">
+        <h2>Current Stats</h2>
+        <div class="stats">
+            <div>
+                <h2>1,474</h2>
+                <p>Total Contributions</p>
+            </div>
+            <div>
+                <h2>1</h2>
+                <p>Current Streak</p>
+            </div>
+            <div>
+                <h2>44</h2>
+                <p>Longest Streak</p>
+            </div>
+        </div>
+        <div class="avatar">
+            <img src="https://via.placeholder.com/100" alt="Avatar" style="border-radius: 50%;">
+        </div>
+    </div>
+</div>
 
-<!--START_SECTION:waka-->
-
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adnanzamanniloy&show_icons=true&locale=en&layout=compact" alt="adnanzamanniloy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanzamanniloy&show_icons=true&locale=en" alt="adnanzamanniloy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adnanzamanniloy&" alt="adnanzamanniloy" /></p>
+</body>
+</html>
