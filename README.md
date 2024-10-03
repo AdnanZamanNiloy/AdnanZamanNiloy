@@ -143,5 +143,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdnanZamanNiloy&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdnanZamanNiloy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/AdnanZamanNiloy.AdnanZamanNiloy.svg)
