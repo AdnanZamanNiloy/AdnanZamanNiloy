@@ -14,7 +14,6 @@
 <a href="https://www.leetcode.com/https://leetcode.com/u/adnanzaman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adnanzaman/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -39,12 +38,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt=".NET" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
 </p>
+
 
 # 📊 GitHub Stats:
 
