@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h3 align="center">I'm currently involved in problem solving, learning more algorithms!</h3>
 <p align="center">
-   <img src="[https://qph.cf2.quoracdn.net/main-qimg-677dc755d3cc0173f8d71dffc2b97903" alt="](https://static.vecteezy.com/system/resources/previews/004/815/687/non_2x/working-process-3d-isometric-office-workplace-with-computer-laptop-pc-document-data-design-for-banner-vector.jpg)">
+     <img src="https://qph.cf2.quoracdn.net/main-qimg-677dc755d3cc0173f8d71dffc2b97903" alt="">
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
