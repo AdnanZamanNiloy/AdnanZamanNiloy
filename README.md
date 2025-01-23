@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?AdnanZamanNiloy=perisicnikola37)
+![](https://komarev.com/ghpvc/?AdnanZamanNiloy=perisicnikola37)
 
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h3 align="center">I'm currently involved in problem solving, learning more algorithms!</h3>
