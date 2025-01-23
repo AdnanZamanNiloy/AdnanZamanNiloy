@@ -1,4 +1,4 @@
-[![Hits](https://u8views.com/api/v1/github/profiles/YOUR_PROFILE_ID/views/day-week-month-total-count.svg)](https://u8views.com/github/AdnanZamanNiloy)
+[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/AdnanZamanNiloy)
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h3 align="center">I'm currently involved in problem solving, learning more algorithms!</h3>
 <p align="center">
