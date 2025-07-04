@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AdnanZamanNiloy)
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
-<h3 align="center">I'm currently involved in problem solving, learning more algorithms!</h3>
+<h3 align="center">I'm Currently involved in problem solving and learning more algorithms while exploring machine learning and development!</h3>
 <p align="center">
      <img src="https://qph.cf2.quoracdn.net/main-qimg-677dc755d3cc0173f8d71dffc2b97903" alt="">
 </p>
