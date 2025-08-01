@@ -7,7 +7,7 @@
 </div>
 
 
-# 🤝 Connect with me :
+# 🌐 Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/adnan-zaman-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-zaman-niloy" height="30" width="40" /></a>
 <a href="https://fb.com/adnanzamanniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adnanzamanniloy" height="30" width="40" /></a>
