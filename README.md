@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h4 align="center">I'm Currently involved in problem solving and learning more algorithms while exploring machine learning and development!</h4>
 
-##🤝 Connect with me :
+## 🤝 Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/adnan-zaman-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-zaman-niloy" height="30" width="40" /></a>
 <a href="https://fb.com/adnanzamanniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adnanzamanniloy" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 </p>
 
 
-##💻Languages and Tools:
+## 💻Languages and Tools:
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
