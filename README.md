@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h3 align="center">I'm Currently involved in problem solving and learning more algorithms while exploring machine learning and development!</h3>
 
-## 🤝 Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/adnan-zaman-niloy)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/adnanzamanniloy)
-[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/adnanzamanniloy)
-[![CodeForces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg)](https://codeforces.com/profile/adnanzaman)
-[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://www.leetcode.com/u/adnanzaman)
-[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/adnanzamanniloy)
+## 🤝 Connect with me :
+<p align="left">
+<a href="https://linkedin.com/in/adnan-zaman-niloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adnan-zaman-niloy" height="30" width="40" /></a>
+<a href="https://fb.com/adnanzamanniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adnanzamanniloy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adnanzamanniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adnanzamanniloy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/adnanzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="adnanzaman" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/adnanzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adnanzaman" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/adnanzamanniloy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adnanzamanniloy" height="30" width="40" /></a>
+</p>
 
 
 ## 💻Languages and Tools:
