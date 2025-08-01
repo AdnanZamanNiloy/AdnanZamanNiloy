@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=AdnanZamanNiloy)
 <h1 align="center">Hi 👋, I'm Adnan Zaman</h1>
 <h4 align="center">I'm Currently involved in problem solving and learning more algorithms while exploring machine learning and development!</h4>
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
 
 
 # 🤝 Connect with me :
@@ -49,8 +51,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanZamanNiloy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=AdnanZamanNiloy&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdnanZamanNiloy&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdnanZamanNiloy&limit=5&theme=radical&combine_all_yearly_contributions=true)
