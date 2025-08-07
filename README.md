@@ -1,10 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=AdnanZamanNiloy)
 <h1 align="center">~ Hello there, I'm Adnan Zaman ~</h1>
 <h4 align="center">I'm Currently involved in problem solving and learning more algorithms while exploring machine learning and development!</h4>
-<div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px" />
-  <br/>
-</div>
+
 
 
 # 🌐 Connect with me :
