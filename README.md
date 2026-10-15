@@ -84,14 +84,13 @@ Selected work in LLM systems, retrieval and full-stack engineering. The featured
     <td>Five-agent travel concierge on Google ADK and MCP with prompt-injection detection. Kaggle × Google capstone.</td>
     <td><code>Python</code> <code>Google ADK</code> <code>MCP</code> <code>FastAPI</code> <code>Streamlit</code></td>
   </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/AdnanZamanNiloy/face-recognition-attendance-system"><img src="https://img.shields.io/badge/FACE_RECOGNITION-6D28D9?style=for-the-badge" height="32" alt="Face Recognition" /></a><br>
-      <a href="https://github.com/AdnanZamanNiloy/face-recognition-attendance-system"><img src="https://img.shields.io/badge/ATTENDANCE_SYSTEM-6D28D9?style=for-the-badge" height="32" alt="Attendance System" /></a>
-    </td>
-    <td>Real-time face-recognition attendance with blink-based liveness detection that blocks photo spoofing.</td>
-    <td><code>Python</code> <code>OpenCV</code> <code>Dlib</code></td>
-  </tr>
+ <tr>
+  <td>
+    <a href="https://github.com/AdnanZamanNiloy/face-recognition-attendance-system"><img src="https://img.shields.io/badge/FACESYNC-6D28D9?style=for-the-badge" height="32" alt="FaceSync" /></a>
+  </td>
+  <td>Real-time face-recognition attendance with blink-based liveness detection that blocks photo spoofing.</td>
+  <td><code>Python</code> <code>OpenCV</code> <code>Dlib</code></td>
+</tr>
   <tr>
     <td><a href="https://github.com/AdnanZamanNiloy/just-hall-website"><img src="https://img.shields.io/badge/JUST_Hall_Website-047857?style=for-the-badge" height="32" alt="JUST Hall Website" /></a></td>
     <td>Full-stack hall management: applications, seat allocation, notices and payments on a JWT-secured .NET 8 API.</td>
